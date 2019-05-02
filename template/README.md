@@ -1,0 +1,1 @@
+## Template for oc resources
