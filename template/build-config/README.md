@@ -1,6 +1,8 @@
 ### Source-to-Image (S2I) (description, options)
 
-Example: form a git source code to an application image.
+Example: from a git source code to an application image.
+
+https://github.com/benweizhu/openshift-customer-service
 
 Pipeline (description, options)
 
