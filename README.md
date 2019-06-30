@@ -1,5 +1,10 @@
 # openshift-example
 
+```
+oc cluster up
+```
+
+
 I use oc cluster up in local for testing this examples.
 
 A few issues you may have when install oc cluster up on Mac.
