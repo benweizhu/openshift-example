@@ -86,3 +86,5 @@ https://docs.openshift.com/container-platform/3.10/dev_guide/openshift_pipeline.
 
 ### OC CLI
 https://docs.openshift.com/container-platform/3.10/cli_reference/index.html
+
+https://www.mankier.com/package/origin-clients
