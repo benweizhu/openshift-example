@@ -83,3 +83,6 @@ https://github.com/containers/skopeo
 
 ### OpenShift Pipeline
 https://docs.openshift.com/container-platform/3.10/dev_guide/openshift_pipeline.html
+
+### OC CLI
+https://docs.openshift.com/container-platform/3.10/cli_reference/index.html
