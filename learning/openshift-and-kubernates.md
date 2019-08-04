@@ -27,6 +27,9 @@ https://kubernetes.io/docs/concepts/storage/persistent-volumes/
 ### Persistent Storage(PV and PVC)
 https://docs.openshift.com/container-platform/3.10/architecture/additional_concepts/storage.html
 
+### Using Persistent Volumes
+https://docs.openshift.com/container-platform/3.10/dev_guide/persistent_volumes.html
+
 ### Labels and Selectors
 https://kubernetes.io/docs/concepts/overview/working-with-objects/labels/
 
