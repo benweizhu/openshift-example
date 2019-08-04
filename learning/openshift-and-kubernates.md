@@ -39,6 +39,10 @@ https://docs.openshift.com/container-platform/3.10/architecture/core_concepts/pr
 ### Service Accounts
 https://docs.openshift.com/container-platform/3.10/dev_guide/service_accounts.html
 
+### Deployment Strategies
+
+https://docs.openshift.com/container-platform/3.10/dev_guide/deployments/deployment_strategies.html
+
 ### Application Health/Probes
 https://docs.openshift.com/container-platform/3.10/dev_guide/application_health.html
 
